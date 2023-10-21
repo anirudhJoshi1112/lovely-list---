@@ -35,4 +35,5 @@ int main(){
      insertatfront(head,15);
     printkrde(head);
     return 0;
+    //insertion in a singly ll
 }
